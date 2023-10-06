@@ -2,6 +2,8 @@
 Certainly, let's update your GitHub description to reflect your role as an indie full-stack developer and farmer, as well as your recent project "SYYN":
 
 ---
+<img src="https://emekaogboh.art/wp-content/uploads/2020/11/Ravensburg-installation-2-1536x864.jpg" />
+---
 
 👨‍🌾👨‍💻 Howdy, I'm Mohamed - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
 
