@@ -53,14 +53,6 @@ Remember to adapt this description to your specific projects, tech stack, and co
 
 <br />
 
-#
-
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahnoun99&show_icons=true&theme=gruvbox)
 
