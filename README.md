@@ -20,8 +20,6 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" />
 
-</br>
-</br>
 <img src="https://dr.savee-cdn.com/things/6/4/cc011354d5a3747868d81c.png" /> 
 
 🌱 **Farming by Day:**
