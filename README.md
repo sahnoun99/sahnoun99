@@ -4,7 +4,7 @@
 
 
 
-<img src="https://emekaogboh.art/wp-content/uploads/2020/11/Ravensburg-installation-2-1536x864.jpg" />
+<img src="https://dr.savee-cdn.com/things/6/2/4ef5746f5574a0f45463d3.gif" />
 
 🌱 **Farming by Day:**
 When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
