@@ -1,9 +1,9 @@
-# 🏄‍♂️ Sahnoun Mohamed
+🏄‍♂️ Sahnoun Mohamed
 Certainly, let's update your GitHub description to reflect your role as an indie full-stack developer and farmer, as well as your recent project "SYYN":
 
 ---
 
-👨‍🌾👨‍💻 Howdy, I'm [Your Name] - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
+👨‍🌾👨‍💻 Howdy, I'm Mohamed - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
 
 🌱 **Farming by Day:**
 When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
@@ -23,8 +23,8 @@ I find harmony in the contrast between the tranquil fields and the bustling digi
 
 📫 **Let's Connect:**
 - LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-- Email: your.email@example.com
+- Twitter: [@sahnounxsahnoun]
+- Email: sahnounxsahnoun@example.com
 
 Whether you share my passion for farming, coding, or both, feel free to connect. I'm always up for a good conversation, collaboration, or sharing stories from the farm and the codebase. 🌾💻
 
