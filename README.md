@@ -62,8 +62,9 @@ Remember to adapt this description to your specific projects, tech stack, and co
 #
 
 ### 📊 Stats
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahnoun99&hide_progress=true)
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahnoun99&show_icons=true&theme=gruvbox)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
