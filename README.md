@@ -21,8 +21,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" />
-
-<br />
+## <br />
 
 🌱 **Farming by Day:**
 When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
