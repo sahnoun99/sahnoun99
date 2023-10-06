@@ -1,9 +1,5 @@
 # 🏄‍♂️ Sahnoun Mohamed
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
 I'm an indie full-stack developer and farmer , working for my self in both , my recent project is <a href="https://syyn.app">SYYN</a> 
----
 
 ### 🧰 Languages and Tools
 
