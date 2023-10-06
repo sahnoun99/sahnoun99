@@ -2,6 +2,12 @@
 
 👨‍🌾👨‍💻 Howdy, I'm ** Mohamed **  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
 
+🌱 **Farming by Day:**
+When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
+
+💻 **Coding by Night:**
+By nightfall, I put on my developer hat, crafting web applications and solutions that simplify complexity. My recent project, "SYYN," is a testament to my dedication to efficient, practical solutions.
+
 <img src="https://dr.savee-cdn.com/things/6/4/cc011354d5a3747868d81c.png" /> 
 
 ### 🧰 Languages and Tools
@@ -23,11 +29,6 @@
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" />
 <br />
 <br />
-🌱 **Farming by Day:**
-When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
-
-💻 **Coding by Night:**
-By nightfall, I put on my developer hat, crafting web applications and solutions that simplify complexity. My recent project, "SYYN," is a testament to my dedication to efficient, practical solutions.
 
 🚀 **Recent Project: SYYN**
 - [SYYN Repository](link-to-your-SYYN-repo): [Brief description of SYYN and its purpose.]
