@@ -2,6 +2,7 @@
 Certainly, let's update your GitHub description to reflect your role as an indie full-stack developer and farmer, as well as your recent project "SYYN":
 
 ---
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/18608287/original_7b2897c7a68ec41e835ee6ce56708399.jpg?1666290888?bc=0" />
 <img src="https://emekaogboh.art/wp-content/uploads/2020/11/Ravensburg-installation-2-1536x864.jpg" />
 ---
 
