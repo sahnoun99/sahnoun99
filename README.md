@@ -62,7 +62,6 @@ Remember to adapt this description to your specific projects, tech stack, and co
 #
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahnoun99&hide_progress=true&layout=donut-vertical)
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahnoun99&show_icons=true&theme=gruvbox)
 
 
