@@ -1,4 +1,4 @@
-# 🏄‍♂️ <Sahnoun Mohamed />
+# 🏄‍♂️ Sahnoun Mohamed
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
