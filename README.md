@@ -46,17 +46,4 @@ I find harmony in the contrast between the tranquil fields and the bustling digi
 - Email: sahnounxsahnoun@example.com
 
 Whether you share my passion for farming, coding, or both, feel free to connect. I'm always up for a good conversation, collaboration, or sharing stories from the farm and the codebase. 🌾💻
-
 ---
-
-Remember to adapt this description to your specific projects, tech stack, and contact details. It provides a unique glimpse into your dual life as a farmer and developer, making it engaging and relatable to others who share your interests.
-
-
-### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahnoun99&show_icons=true&theme=gruvbox)
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
