@@ -4,7 +4,7 @@
 
 
 
-<img src="https://dr.savee-cdn.com/things/6/2/4ef5746f5574a0f45463d3.gif" /> 
+<img src="https://dr.savee-cdn.com/things/6/4/cc011354d5a3747868d81c.png" /> 
 
 🌱 **Farming by Day:**
 When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
