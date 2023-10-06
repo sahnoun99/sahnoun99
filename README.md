@@ -1,6 +1,6 @@
-<h2> 🏄‍♂️ Sahnoun Mohamed </h2>
+<h2> 👨‍🌾👨‍💻 Sahnoun Mohamed </h2>
 
-👨‍🌾👨‍💻 Howdy, I'm **Mohamed**  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
+Howdy, I'm **Mohamed**  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
 
 🌱 **Farming by Day:**
 When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
