@@ -25,6 +25,6 @@
 <br />
 
 📫 **Let's Connect:**
-- Twitter: [@sahnounxsahnoun]
-- Email: sahnounxsahnoun@example.com
+- Twitter: @sahnounxsahnoun
+- Email: sahnounxsahnoun@gmail.com
 ---
