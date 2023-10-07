@@ -1,15 +1,6 @@
 <h2> 👨‍🌾👨‍💻 Sahnoun Mohamed </h2>
 
-Howdy, I'm **Mohamed**  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
-
-🌱 **Farming by Day:**
-When I'm not immersed in the world of code, I'm tending to my crops and livestock. There's something profoundly satisfying about nurturing the land and watching it flourish.
-
-💻 **Coding by Night:**
-By nightfall, I put on my developer hat, crafting web applications and solutions that simplify complexity. My recent project, "SYYN," is a testament to my dedication to efficient, practical solutions.
-
-🌍 **Balancing Act:**
-I find harmony in the contrast between the tranquil fields and the bustling digital realm. It's a unique blend that keeps me grounded and creative.
+**Howdy, I'm Mohamed  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.**
 
 <img src="https://dr.savee-cdn.com/things/6/4/cc011354d5a3747868d81c.png" /> 
 
@@ -36,6 +27,4 @@ I find harmony in the contrast between the tranquil fields and the bustling digi
 📫 **Let's Connect:**
 - Twitter: [@sahnounxsahnoun]
 - Email: sahnounxsahnoun@example.com
-
-Whether you share my passion for farming, coding, or both, feel free to connect. I'm always up for a good conversation, collaboration, or sharing stories from the farm and the codebase. 🌾💻
 ---
