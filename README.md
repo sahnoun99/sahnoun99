@@ -34,7 +34,6 @@ I find harmony in the contrast between the tranquil fields and the bustling digi
 <br />
 
 📫 **Let's Connect:**
-- LinkedIn: [Your LinkedIn Profile]
 - Twitter: [@sahnounxsahnoun]
 - Email: sahnounxsahnoun@example.com
 
