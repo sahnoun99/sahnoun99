@@ -8,10 +8,6 @@ When I'm not immersed in the world of code, I'm tending to my crops and livestoc
 💻 **Coding by Night:**
 By nightfall, I put on my developer hat, crafting web applications and solutions that simplify complexity. My recent project, "SYYN," is a testament to my dedication to efficient, practical solutions.
 
-💼 **Tech Stack:**
-- Full-stack development with a focus on [mention your preferred tech stack].
-- Leveraging technology to enhance farming practices whenever possible.
-
 🌍 **Balancing Act:**
 I find harmony in the contrast between the tranquil fields and the bustling digital realm. It's a unique blend that keeps me grounded and creative.
 
