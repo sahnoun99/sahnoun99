@@ -1,4 +1,4 @@
-<h2> 👨‍🌾 Sahnoun Mohamed 👨‍💻 </h2>
+<h2> Sahnoun Mohamed  👨‍🌾👨‍💻 </h2>
 
 Howdy, I'm **Mohamed**  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.
 
