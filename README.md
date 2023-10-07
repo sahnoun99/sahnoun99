@@ -25,6 +25,6 @@
 <br />
 
 📫 **Let's Connect:**
-- Twitter: @sahnounxsahnoun
+- Twitter: https://twitter.com/sahnounxsahnoun
 - Email: sahnounxsahnoun@gmail.com
 ---
