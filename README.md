@@ -1,8 +1,4 @@
-<h2> 👨‍🌾👨‍💻 Sahnoun Mohamed </h2>
-
-**Howdy, I'm Mohamed  - an indie full-stack developer and farmer, leading a dual life working for myself in both fields. My hands get dirty in the fields, and my code keeps things running smoothly in the digital world.**
-
-<img src="https://dr.savee-cdn.com/things/6/4/cc011354d5a3747868d81c.png" /> 
+<h2> Sahnoun Mohamed </h2>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
